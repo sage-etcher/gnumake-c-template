@@ -1,3 +1,11 @@
+10/20/2023 10:48 Sage I. Hendricks <sage.message@email.com>
+
+	Git no longer ignores root folders named "install".
+
+	* .gitignore: removed the line "install/**", because such a
+	folder shouldn't exist. Secondly, on the windows platform the INSTALL file
+	makes having a folder named such impossible.
+
 10/20/2023 10:29 Sage I. Hendricks <sage.message@email.com>
 
 	Git should now grab the "Empty" directories.
