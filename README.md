@@ -21,7 +21,7 @@ $ make build
 | source/\*.h | Project source header files |
 
 
-# License
+## License
 
 Copyright 2023 Leaf Software Foundation  
 
