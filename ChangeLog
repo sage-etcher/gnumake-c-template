@@ -2,9 +2,9 @@
 
 	Git should now grab the "Empty" directories.
 
-	* resources/empty.txt: created an empty file to log directory
-	* source/include/empty.txt: created an empty file to log directory
-	* source/lib/empty.txt: created an empty file to log directory
+	* resources/.gitkeep: created an empty file to log directory
+	* source/include/.gitkeep: created an empty file to log directory
+	* source/lib/.gitkeep: created an empty file to log directory
 
 10/20/2023 10:11 Sage I. Hendricks <sage.message@email.com>
 
@@ -22,14 +22,9 @@
 
 10/20/2023 09:40 Sage I. Hendricks <sage.message@email.com>
 
-	Added new git files to README
-
-	* README: added description for GitHub's "README.md" file
-
-10/20/2023 09:32 Sage I. Hendricks <sage.message@email.com>
-
 	Setup the project to work with GitHub
 
+	* README: added description for GitHub's "README.md" file
 	* .gitignore: Doesn't grab build files
 	* .git/**: Git files created
 
