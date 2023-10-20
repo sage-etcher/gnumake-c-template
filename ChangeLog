@@ -1,3 +1,10 @@
+10/20/2023 09:32 Sage I. Hendricks <sage.message@email.com>
+
+	Setup the project to work with GitHub
+
+	* .gitignore: Doesn't grab build files
+	* .git/**: Git files created
+
 10/20/2023 08:52 Sage I. Hendricks <sage.message@email.com>
 
 	Converted Previous ChangeLog file to propper GNU Style
