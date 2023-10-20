@@ -1,3 +1,10 @@
+10/20/2023 10:11 Sage I. Hendricks <sage.message@email.com>
+
+	Clarified wording in the VERSION text
+
+	* VERSION: changed some wording in the "This is Free Software" line to
+	better express that it is with regards to the LICENSE.
+
 10/20/2023 09:55 Sage I. Hendricks <sage.message@email.com>
 
 	Clarified versioning scheme in the primary Makefile
