@@ -1,0 +1,39 @@
+10/20/2023 08:52 Sage I. Hendricks <sage.message@email.com>
+
+	Converted Previous ChangeLog file to propper GNU Style
+
+	* ChangeLog: Updated formatting
+
+10/19/2023 16:06 Sage I. Hendricks <sage.message@email.com>
+
+	Program prints Hello World message at runtime.
+
+	* source/main.c (main): Call ex_hello_world function before exitting
+
+10/19/2023 15:57 Sage I. Hendricks <sage.message@email.com>
+
+	Wrote a basic Makefile to compile the example program
+
+	* Makefile (build, install, uninstall, clean): added basic instructions
+	needed to install simple programs
+
+10/19/2023 13:40 Sage I. Hendricks <sage.message@email.com>
+
+	Wrote basic hello world example program
+
+	* source/example.c (ex_hello_world): new function, prints "Hello, World"
+	to stdin.
+	* source/example.h (ex_hello_world): added function prototype in header
+	file for the function.
+	* source/main.c (main): added main funtion
+
+10/19/2023 10:21 Sage I. Hendricks <sage.message@email.com>
+
+	Created Simple Directory and File Structures
+
+	* ChangeLog: Created new file and logged changes
+	* LICENSE: applited the Apache Version 2 license
+	* README: wrote basic template GNU README file
+	* VERSION: wrote basic template VERSION file for "program --version" to
+	read from.
+
