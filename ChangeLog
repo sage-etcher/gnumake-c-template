@@ -1,3 +1,10 @@
+10/20/2023 10:56 Sage I. Hendricks <sage.message@email.com> 
+
+    Added basic instalation + build instruction for unix-like systems.
+
+    * INSTALL: Added lines for needed Dependencies, and instruction to build
+    and install the program using GNU Make and the provided Makefile.
+
 10/20/2023 10:48 Sage I. Hendricks <sage.message@email.com>
 
 	Git no longer ignores root folders named "install".
