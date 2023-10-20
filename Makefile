@@ -19,6 +19,11 @@
 
 PROJECT_NAME := NAME
 PROJECT_VERSION := VERSION
+# VERSION in the form MAJOR.MINOR.PATCH.BUILD-AUDIENCE
+# Example for Developer Build, version 2.14 patch 3
+# 2.14.3.841-dev
+# Example for Stable Release, version 2.15 patch 0
+# 2.15.0.857
 
 
 # Important Directories

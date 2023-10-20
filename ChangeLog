@@ -1,3 +1,10 @@
+10/20/2023 09:55 Sage I. Hendricks <sage.message@email.com>
+
+	Clarified versioning scheme in the primary Makefile
+
+	* Makefile: Added comments detailing the recomended Version Scheme.
+	Comment insertion just below the "PROJECT_VERSION" variable.
+
 10/20/2023 09:40 Sage I. Hendricks <sage.message@email.com>
 
 	Added new git files to README
