@@ -1,3 +1,10 @@
+
+10/23/2023 14:32 Sage I. Hendricks <sage.message@email.com>
+
+	Added ignores to stop git from grabbing temporary files.
+
+	* .gitignore: added igores for .swp and .bak filetypes
+
 10/23/2023 13:58 Sage I. Hendricks <sage.message@email.com>
 
 	Moved the example source code into it's own directory.
