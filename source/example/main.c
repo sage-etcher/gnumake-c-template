@@ -1,6 +1,6 @@
 /*
-   source/example.h
-   An Example C header file. 
+   source/example/main.c
+   an example program that prints hello world and exits.
  
    Copyright 2023 Leaf Software Foundation
 
@@ -19,29 +19,29 @@
 */
 
 
-/* run once */
-#pragma once
-#ifndef __EXAMPLE_HEADER__
-#define __EXAMPLE_HEADER__
-
 /* include headers */
-#include <stdio.h>
+#include <stdlib.h>
+
+#include "example.h"
 
 
-/* custom datatypes */
+/* file static variables */
 
 
-/* constants */
+/* file static function prototypes */
 
 
-/* global variables */
+/* main program-entry-point */
+int
+main (int argc, char *argv[])
+{
+    ex_hello_world ();
+
+    return EXIT_SUCCESS;
+}
 
 
-/* external function prototypes */
-void ex_hello_world (void);
-
-
-#endif /* end run once */
+/* function definitions */
 
 
 /* End of File */

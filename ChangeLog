@@ -1,3 +1,13 @@
+10/23/2023 13:58 Sage I. Hendricks <sage.message@email.com>
+
+	Moved the example source code into it's own directory.
+
+	* source/main.c: moved to source/example/main.c and had description
+	updated.
+	* source/example.c: moved to source/example/example.c
+	* source/example.h: moved to source/example/example.h
+	* Makefile: updated source locations for the example program
+
 10/23/2023 13:52 Sage I. Hendricks <sage.message@email.com>
 
 	created empty template source files.

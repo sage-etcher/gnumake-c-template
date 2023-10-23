@@ -37,7 +37,7 @@ LIBRARY_DIR := $(SOURCE_DIR)/lib
 
 # Important Files
 EXAMPLE_EXEC := example.exe
-EXAMPLE_SOURCE_FILENAMES := main.c example.c
+EXAMPLE_SOURCE_FILENAMES := example/main.c example/example.c
 EXAMPLE_SOURCE_FILES := $(foreach filename,$(EXAMPLE_SOURCE_FILENAMES),$(SOURCE_DIR)/$(filename))
 EXAMPLE_OBJECT_FILES := $(foreach filename,$(EXAMPLE_SOURCE_FILES),$(BUILD_DIR)/$(filename).o)
 

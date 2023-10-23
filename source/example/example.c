@@ -1,5 +1,5 @@
 /*
-   source/example.c
+   source/example/example.c
    An Example C source file. 
  
    Copyright 2023 Leaf Software Foundation
