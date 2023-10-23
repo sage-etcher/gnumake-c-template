@@ -1,3 +1,10 @@
+10/23/2023 13:42 Sage I. Hendricks <sage.message@email.com>
+
+	Added a version change script for the bash enviornment
+
+	* new-version.sh: wrote new file to update version in Makefile, README, 
+	README.md, and VERSION files.
+
 10/20/2023 11:27 Sage I. Hendricks <sage.message@email.com>
 
     Added Basic Template for the GitHub cover page/readme
