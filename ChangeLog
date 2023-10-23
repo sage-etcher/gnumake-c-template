@@ -1,3 +1,14 @@
+10/23/2023 13:52 Sage I. Hendricks <sage.message@email.com>
+
+	created empty template source files.
+
+	* source/template/main.c: modified version of source/main.c to be used as
+	a starting point for a main program.
+	* source/template/template.c: an empty source file, templated to
+	work with a matching header file.
+	* source/template/template.h: an empty header file, templated to work with
+	the previously mentioned source/template/template.c source file.
+
 10/23/2023 13:42 Sage I. Hendricks <sage.message@email.com>
 
 	Added a version change script for the bash enviornment
