@@ -1,6 +1,8 @@
-# PROJECT NAME
+# Leaf C Project Template
 
-PROJECT DESCRIPTION  
+___version:___ 0.8.1.18-dev
+
+A generic template for making cleanly organized C projects; lightly inspired by the GNU Coding Standards and various other resources.
 
 
 ## Building the Program using GNU Make
@@ -13,12 +15,13 @@ $ make build
 ## Project Files
 
 | File | Description |
-|-----:|-----------|
+|:-----|-----------|
 | VERSION | Contains program's name, version, and licensing information |
 | Makefile | GNU Makefile used to build and install the program |
-| source/main.c | Project main source file |
-| source/\*.c | Project source code files |
-| source/\*.h | Project source header files |
+| source/example/\* | Hello World Example program sources |
+| source/template/main.c | Template main source file |
+| source/template/template.c | Template source file |
+| source/tempalte/template.h | Template header file |
 
 
 ## License

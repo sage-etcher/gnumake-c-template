@@ -1,3 +1,18 @@
+10/23/2023 14:25 Sage I. Hendricks <sage.message@email.com>
+
+	Replaced all "PROJECT NAME"s with Leaf C Project Template, and similarly
+	with "PROJECT VERSION"s.
+
+	* VERSION: updated first line, from template names to "Leaf C Project
+	Template 0.8.1.18-dev
+	* Makefile: Set PROJECT_NAME and PROJECT_VERSION to match the information
+	in the VERSION file
+	* README: updated the first 2 lines to show match the VERSION file.
+	Updated some the file explenations
+	* README.md: added area to display the versin, just under the main title.
+	Updated the title and description to explain that this is a template
+	Project. Set the first column of the Project Files chart to be left
+	aligned
 
 10/23/2023 14:32 Sage I. Hendricks <sage.message@email.com>
 
