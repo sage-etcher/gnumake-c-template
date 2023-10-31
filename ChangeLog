@@ -1,3 +1,11 @@
+10/31/2023 13:33 Sage I. Hendricks <sage.message@email.com>
+
+	Updated .gitattributes to block all files, recursively, that are
+	inside an include or lib folder.
+
+	* .gitattributes: updated include and lib folder exclusions to use
+	'**' for files rather than the previous '*'
+
 10/31/2023 12:01 Sage I. Hendricks <sage.message@email.com>
 
 	Added .gitattributes for eol and for ignoring include and lib paths.
