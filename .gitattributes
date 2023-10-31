@@ -1,4 +1,4 @@
-*           text=auto linguist-vendored
+*           text=auto linguist-vendored=true
 
 *.md        text eol=lf
 
@@ -11,10 +11,16 @@ Makefile*   text eol=lf
 *.sh	    text eol=lf
 *.bat       text eol=crlf
 
+*.png       binary
+*.jpeg      binary
+*.jpg       binary 
+*.bmp       text 
+*.svg       text
+
 README      text eol=lf
 INSTALL     text eol=lf
 VERSION     text eol=lf
 ChangeLog   text eol=lf
 
-include/    linguist-vendored
-lib/        linguist-vendored
+include/**  linguist-vendored=true
+lib/**      linguist-vendored=true
