@@ -7,6 +7,9 @@ Makefile*   text eol=lf
 *.h         text eol=lf linguist-vendored=false
 *.cpp       text eol=lf linguist-vendored=false
 *.hpp       text eol=lf linguist-vendored=false
+*.dll       binary
+*.so        binary
+*.a         binary
 
 *.sh	    text eol=lf
 *.bat       text eol=crlf
@@ -22,5 +25,5 @@ INSTALL     text eol=lf
 VERSION     text eol=lf
 ChangeLog   text eol=lf
 
-include/**  linguist-vendored=true
-lib/**      linguist-vendored=true
+include/*/*  linguist-vendored=true
+lib/*        linguist-vendored=true
