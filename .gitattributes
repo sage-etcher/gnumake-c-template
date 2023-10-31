@@ -25,5 +25,5 @@ INSTALL     text eol=lf
 VERSION     text eol=lf
 ChangeLog   text eol=lf
 
-source/include/*  linguist-vendored
+source/include/*/*  linguist-vendored
 source/lib/*      linguist-vendored
