@@ -1,3 +1,10 @@
+10/31/2023 14:08 Sage I. Hendricks <sage.message@email.com>
+
+	Previous two patches have failed, trying 3rd approach.
+
+	* .gitattributes: removed general file lookup '*' from include and lib
+	exclusions, we want to ignore all of the files under either or.
+
 
 10/31/2023 13:43 Sage I. Hendricks <sage.message@email.com>
 

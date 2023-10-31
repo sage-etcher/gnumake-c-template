@@ -18,7 +18,7 @@
 #
 
 PROJECT_NAME := Leaf C Project Template
-PROJECT_VERSION := 0.9.2.21-dev 
+PROJECT_VERSION := 0.9.3.22-dev 
 # VERSION in the form MAJOR.MINOR.PATCH.BUILD-AUDIENCE
 # Example for Developer Build, version 2.14 patch 3
 # 2.14.3.841-dev
