@@ -1,12 +1,12 @@
-*           text=auto linguist-vendored=true
+*           text=auto linguist-vendored
 
 *.md        text eol=lf
 
 Makefile*   text eol=lf
-*.c         text eol=lf linguist-vendored=false
-*.h         text eol=lf linguist-vendored=false
-*.cpp       text eol=lf linguist-vendored=false
-*.hpp       text eol=lf linguist-vendored=false
+*.c         text eol=lf linguist-vendored=false linguist-language=c
+*.h         text eol=lf linguist-vendored=false linguist-language=c
+*.cpp       text eol=lf linguist-vendored=false linguist-language=cpp
+*.hpp       text eol=lf linguist-vendored=false linguist-language=cpp
 *.dll       binary
 *.so        binary
 *.a         binary
@@ -25,5 +25,5 @@ INSTALL     text eol=lf
 VERSION     text eol=lf
 ChangeLog   text eol=lf
 
-source/include/*  linguist-vendored=true
-source/lib/*        linguist-vendored=true
+source/include/*  linguist-vendored
+source/lib/*      linguist-vendored

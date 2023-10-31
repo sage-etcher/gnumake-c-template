@@ -1,6 +1,6 @@
 # Leaf C Project Template
 
-___version:___ 0.9.3.25-dev
+___version:___ 0.9.3.26-dev
 
 A generic template for making cleanly organized C projects; lightly inspired by the GNU Coding Standards and various other resources.
 
