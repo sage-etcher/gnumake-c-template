@@ -26,4 +26,4 @@ VERSION     text eol=lf
 ChangeLog   text eol=lf
 
 source/include/*/*  linguist-vendored
-source/lib/*      linguist-vendored
+source/lib/*        linguist-vendored

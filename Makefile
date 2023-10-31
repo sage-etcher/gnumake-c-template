@@ -2,7 +2,7 @@
 #  Makefile
 #  Simple GNU Makefile to build and install the project
 #
-#  Copyright 2023 Leaf Software Foundation
+#  Copyright 2023 Sage I. Hendricks
 #
 #  Licensed under the Apache License, Version 2.0 (the "License");
 #  you may not use this file except in compliance with the License.
@@ -18,7 +18,7 @@
 #
 
 PROJECT_NAME := Leaf C Project Template
-PROJECT_VERSION := 0.9.3.27-dev 
+PROJECT_VERSION := 0.9.3.28-dev
 # VERSION in the form MAJOR.MINOR.PATCH.BUILD-AUDIENCE
 # Example for Developer Build, version 2.14 patch 3
 # 2.14.3.841-dev

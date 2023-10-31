@@ -1,3 +1,13 @@
+10/31/2023 15:11 Sage I. Hendricks <sage.message@email.com>
+
+    Changed License owner to own account.
+
+    * README.md: changed license owner
+    * VERSION: changed license owner
+    * Makefile: changed license owner
+    * source/example/*: changed license owner
+    * source/template/*: changed license owner
+
 10/31/2023 14:08 Sage I. Hendricks <sage.message@email.com>
 
 	Previous two patches have failed, trying 3rd approach.
