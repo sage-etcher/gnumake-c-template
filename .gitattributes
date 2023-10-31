@@ -1,20 +1,20 @@
-* text=auto linguist-vendored
+*           text=auto linguist-vendored
 
-*.md       texa eol=lf
+*.md        text eol=lf
 
-Makefile*  text eol=lf
-*.c        text eol=lf linguist-vendored=false
-*.h        text eol=lf linguist-vendored=false
-*.cpp      text eol=lf linguist-vendored=false
-*.hpp      text eol=lf linguist-vendored=false
+Makefile*   text eol=lf
+*.c         text eol=lf linguist-vendored=false
+*.h         text eol=lf linguist-vendored=false
+*.cpp       text eol=lf linguist-vendored=false
+*.hpp       text eol=lf linguist-vendored=false
 
-*.sh	   text eol=lf
-*.bat      text eol=crlf
+*.sh	    text eol=lf
+*.bat       text eol=crlf
 
-README     text eol=lf
-INSTALL    text eol=lf
-VERSION    text eol=lf
-ChangeLog  text eol=lf
+README      text eol=lf
+INSTALL     text eol=lf
+VERSION     text eol=lf
+ChangeLog   text eol=lf
 
-include/** linguist-vendored
-lib/**     linguist-vendored
+include/*/* linguist-vendored
+lib/*       linguist-vendored

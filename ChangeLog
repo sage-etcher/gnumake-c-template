@@ -1,3 +1,13 @@
+
+10/31/2023 13:43 Sage I. Hendricks <sage.message@email.com>
+
+	Previous patch failed to fix the issue, testing an alternate option.
+	
+	* .gitattributes: fixed a spellin mistake and changed excultions to
+	assume that lib files are not in sub folders, while include files are
+	always in one layer of subfolder(s).
+
+
 10/31/2023 13:33 Sage I. Hendricks <sage.message@email.com>
 
 	Updated .gitattributes to block all files, recursively, that are
